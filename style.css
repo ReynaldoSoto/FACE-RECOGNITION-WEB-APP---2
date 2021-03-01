@@ -1,0 +1,15 @@
+.heading{
+    width: 65%;
+    font-size: 35px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+    background-color: crimson;
+    color: lightgreen;
+}
+#camera
+{
+    width:350px;
+    height: 300px;
+    border: 2px dotted rgb(0, 0, 0);
+}
